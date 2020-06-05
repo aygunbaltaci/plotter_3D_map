@@ -1,6 +1,6 @@
 # 3D Maps Plotter
 
-This code plots the input data on a 3D arcgis map. 
+This code plots the input data on a 3D Arcgis map. 
 
 ## Prerequisites
 **Python 3**
