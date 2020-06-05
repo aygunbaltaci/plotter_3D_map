@@ -41,6 +41,7 @@ If the program takes long time to produce the graph, you can play with the value
 
 ## Result
 The result is saved in the directory below with the corresponding date (YYYYMMDD_HHMMSS):
+
 *outputfiles/*
 
 Perform *Text to Columns* conversion with *space* character as delimeter on the output csv file. 
