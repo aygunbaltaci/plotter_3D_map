@@ -1,0 +1,7 @@
+myapp
+outputfiles/*
+lib/__pycache__
+!outputfiles/placeholder.txt
+inputfiles/*
+!inputfiles/input_plot_maps.csv
+basemap-1.2.1-cp38-cp38-win32.whl
