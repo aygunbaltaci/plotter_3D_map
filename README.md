@@ -8,6 +8,9 @@ This code plots the input data on a 3D Arcgis map.
 
 > sudo apt install python3.6 (or any other python3 version) 
 
+**Pyproj**
+> pip3 install pyproj==1.9.6
+
 **Basemap library**
 
 Install the basemap library to your PC from the link below:
